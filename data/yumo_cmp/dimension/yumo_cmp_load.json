@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "layers": [
+			    { "block": "minecraft:air", "height": 256 }
+            ],
+            "biome": "minecraft:the_void"
+        }
+    }
+}

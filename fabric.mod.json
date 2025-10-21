@@ -1,0 +1,13 @@
+{
+    "schemaVersion":1,
+    "id":"yumo_isk",
+    "version":"1.0.2",
+    "name":"Stackstackstack",
+    "description":"The person who came up with the idea of spelling the word 'group' is truly a genius.\n想出来拼好组这个词的人真是个天才",
+    "authors":["yumo233"],
+    "contact":{"homepage":"https://modrinth.com/project/yumo-isk"},
+    "license":"Apache2.0",
+    "icon":"pack.png",
+    "environment":"*",
+    "depends":{"fabric-resource-loader-v0":"*"}
+}

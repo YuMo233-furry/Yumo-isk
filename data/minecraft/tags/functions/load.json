@@ -1,0 +1,7 @@
+{
+"values":[	"yumo_cmp:load",
+			"yumo_isk:item_ceiling/load",
+			"yumo_isk:bundle/load",
+			"yumo_isk:clear/load"
+	]
+}
