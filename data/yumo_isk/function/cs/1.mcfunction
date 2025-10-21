@@ -1,0 +1,1 @@
+function yumo_isk:cs/2
